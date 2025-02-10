@@ -1,0 +1,18 @@
+Completed
+  *Implemented JWT authentication for Rider and Admin.
+  *Configured Spring Security with role-based access.
+  *Developed user login and authentication flow.
+  *Defined roles: RIDER, DRIVER, ADMIN.
+In Progress
+ 1 Developing controllers for:
+ 2 Rider (/rider/*)
+ 3 Driver (/driver/*)
+ 4 Admin (/admin/*)
+ 5 Configuring authorization rules using @PreAuthorize.
+ 6 Setting up role-based routing.
+Next Steps
+  Ensure controllers correctly validate JWT tokens before processing requests.
+  Debug and verify role-based access in security configuration.
+  Implement service layers for Rider, Driver, and Admin
+
+  "Security isn’t just a feature; it’s the foundation. Every step we take in building this system makes it stronger and more reliable. Keep going—one solid piece at a time." 🔒🚀
